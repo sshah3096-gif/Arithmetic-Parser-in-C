@@ -1,8 +1,10 @@
 // Name Lastname: SUNIL KUMAR THAKURI StudentID: 251ADB032
-// Repository:
+// Repository:https://github.com/sshah3096-gif/Arithmetic-Parser-in-C
 // Compile with: gcc -O2 -Wall -Wextra -std=c17 -o calc calc.c -lm
 // Resources used: ChatGPT (OpenAI)
-// AI assistance: ChatGPT helped explain recursive-descent parsing, file handling, and error positions.
+// AI assistance: ChatGPT helped explain the framework, where to start and how to start, helped me work with parser and how to approach it,
+//it helped me on using parser and gave some code as well to work with.
+// link to my chats:https://chatgpt.com/share/6adbeb3f-c024-83ed-abff-a9124ab6d874
 
 #include <stdio.h>
 #include <stdlib.h>
